@@ -11,17 +11,17 @@ namespace PricesObserver.SiteParsers.Sites
     {
         protected override decimal GetPrice(HtmlDocument document)
         {
-            //var node = document.DocumentNode
-            //    .SelectSingleNode("//*[@id=\"main_right\"]/div[1]/div/div/div/div[2]/div[2]/div[2]/span/text()");
+            var node = document.DocumentNode
+                .SelectSingleNode("//*[@id=\"center_column\"]/div/div[1]/div[3]/div[2]/div[1]/ul/li[2]/span");
 
-            //if (node == null)
-            //{
-            //    throw new Exception("Could not find document node, may be Price xpath changed");
-            //}
+            if (node == null)
+            {
+                return 0;
+            }
 
-            //var priceString = node.InnerHtml.Replace(" ", "");
+            var priceString = node.InnerHtml.Replace(",", ".").Replace(" ", "").Replace("MDL", "");
 
-            //return decimal.Parse(priceString);
+            return decimal.Parse(priceString);
 
             return 0;
         }

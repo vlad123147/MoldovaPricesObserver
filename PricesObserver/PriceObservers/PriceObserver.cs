@@ -50,7 +50,7 @@ namespace PricesObserver.PriceObservers
 
                 _logger.LogError(e, $"{id} Could not observe prices on site {productUrl}");
 
-                var price = new ProductPriceFetchResult(e.Message, id);
+                var price = new ProductPriceFetchResult(e.Message, id, productName, productUrl);
                 await _priceStore.StoreAsync(price);
             }
         }

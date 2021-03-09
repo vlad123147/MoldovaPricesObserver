@@ -24,7 +24,7 @@ namespace PricesObserver.Models
         public string ErrorId { get; set; }
 
 
-        public ProductPriceFetchResult(string errorMessage, string errorId)
+        public ProductPriceFetchResult(string errorMessage, string errorId, string productName, string productUrl)
         {
             IsSuccess = false;
             ErrorMessage = errorMessage;

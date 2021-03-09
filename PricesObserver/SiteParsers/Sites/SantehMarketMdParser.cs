@@ -12,8 +12,12 @@ namespace PricesObserver.SiteParsers.Sites
         protected override decimal GetPrice(HtmlDocument document)
         {
             var node = document.DocumentNode
-                .SelectSingleNode("//*[@id=\"product-5454\"]/div[1]/div/div/div/div[2]/div/p/ins/span/text()");
-
+                .SelectSingleNode("//*[starts-with(@id, \"product-\")]/div[1]/div/div/div/div[2]/div/p/ins/span/text()");
+            if (node == null)
+            {
+                node = document.DocumentNode
+                .SelectSingleNode("//*[@id=\"product-5661\"]/div[1]/div/div/div/div[2]/div/p/ins/span/text()");
+            }
             if (node == null)
             {
                 throw new Exception("Could not find document node, may be Price xpath changed");

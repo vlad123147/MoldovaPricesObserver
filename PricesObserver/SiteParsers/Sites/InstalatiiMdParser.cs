@@ -11,8 +11,7 @@ namespace PricesObserver.SiteParsers.Sites
     {
         protected override decimal GetPrice(HtmlDocument document)
         {
-            var node = document.DocumentNode
-                .SelectSingleNode("//*[@id=\"product-1888\"]/div[1]/div/div[2]/p/span/text()");
+             var node = document.DocumentNode.SelectSingleNode("//*[starts-with(@id, \"product-\")]/div[1]/div/div[2]/p/span/text()");
 
             if (node == null)
             {

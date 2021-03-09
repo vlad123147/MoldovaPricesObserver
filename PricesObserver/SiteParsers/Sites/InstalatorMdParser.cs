@@ -11,8 +11,15 @@ namespace PricesObserver.SiteParsers.Sites
     {
         protected override decimal GetPrice(HtmlDocument document)
         {
-            var node = document.DocumentNode
-                .SelectSingleNode("//*[@id=\"product-313\"]/div[2]/p/ins/span/text()");
+            //var node = document.DocumentNode
+            //    .SelectSingleNode("//*[@id=\"product-313\"]/div[2]/p/ins/span/text()");
+
+               var node =  document.DocumentNode.SelectSingleNode("//*[starts-with(@id, \"product-\")]/div[2]/p/ins/span/text()");
+
+            //if (node == null)
+            //{
+            //    node = document.DocumentNode.SelectSingleNode("//*[@id=\"product-327\"]/div[2]/p/ins/span/text()");
+            //}
 
             if (node == null)
             {

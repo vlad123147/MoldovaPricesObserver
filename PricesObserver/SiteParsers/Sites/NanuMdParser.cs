@@ -7,19 +7,19 @@ using System.Threading.Tasks;
 
 namespace PricesObserver.SiteParsers.Sites
 {
-    public class OgogoMdParser : SiteParserBase
+    public class NanuMdParser : SiteParserBase
     {
         protected override decimal GetPrice(HtmlDocument document)
         {
             var node = document.DocumentNode
-                .SelectSingleNode("//*[starts-with(@id, \"sec_discounted_price_\")]");
+                .SelectSingleNode("//*[@id=\"main\"]/div[1]/div[1]/div[3]/div/div[1]/div[1]/div/span");
 
             if (node == null)
             {
                 throw new Exception("Could not find document node, may be Price xpath changed");
             }
 
-            var priceString = node.InnerHtml.Replace(" ", "").Replace(",", ".").Replace("&nbsp;", "");
+            var priceString = node.Attributes[1].Value;
 
             return decimal.Parse(priceString);
         }

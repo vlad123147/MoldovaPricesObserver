@@ -7,7 +7,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using MyShop.BuildingBlocks.Infrastructure._Configuration.TransactionalCommands;
 using MyShop.BuildingBlocks.Infrastructure._Configuration.TransactionalCommands.Outbox;
+using Nest;
 using PricesObserver.Configs;
+using PricesObserver.ElasticSearch;
 using PricesObserver.PriceObservers;
 using PricesObserver.PriceStores;
 using PricesObserver.SiteParsers;
@@ -56,6 +58,8 @@ namespace PricesObserver
                 loggingBuilder.AddSerilog(dispose: true);
             });
 
+
+            AddElasticSearch(services);
 
             services.AddTransient<PricesObserverConfiguration>((serviceProvider) => ObserverConfiguration);
             services.AddTransient<IPriceObserverScheduler, PriceObserverScheduler>();
@@ -124,6 +128,13 @@ namespace PricesObserver
                 // when shutting down we want jobs to complete gracefully
                 options.WaitForJobsToComplete = true;
             });
+        }
+
+        private void AddElasticSearch(IServiceCollection services)
+        {
+            services.AddTransient<IConnectionSettingsValues>(x => ElasticClientSettingsFactory.Create(ElasticSearchConfig));
+            services.AddTransient<IElasticClient, ElasticClient>();
+            services.AddTransient<IPricesElasticSearchIndex, PricesElasticSearchIndex>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

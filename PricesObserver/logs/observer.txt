@@ -1209,3 +1209,1311 @@ System.NotImplementedException: A parser for the page https://jara.md/ro/6074585
 2021-03-08 17:49:06.749 +02:00 [INF] Adding 1 jobs, 1 triggers.
 2021-03-08 17:49:06.752 +02:00 [INF] Adding job: DEFAULT.job1
 2021-03-08 17:49:06.765 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 20:55:25.408 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 20:55:25.471 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 20:55:25.473 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 20:55:25.500 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 20:55:25.503 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 20:55:25.517 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 20:55:25.518 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 20:55:25.541 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 20:55:25.545 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 20:55:25.559 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 20:55:31.087 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 20:55:33.509 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 20:55:39.766 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 20:55:39.767 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 20:55:39.769 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 20:55:39.770 +02:00 [INF] Hosting environment: Development
+2021-03-08 20:55:39.770 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 20:55:41.310 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 20:55:41.349 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 20:55:41.356 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 20:55:41.360 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 51.1195ms
+2021-03-08 20:59:36.086 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 20:59:36.110 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 20:59:36.113 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 20:59:36.114 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 20:59:36.118 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 20:59:36.119 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 20:59:36.119 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 20:59:36.140 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 20:59:36.143 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 20:59:36.156 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:02:39.481 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 21:02:39.510 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 21:02:39.513 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 21:02:39.515 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 21:02:39.519 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 21:02:39.522 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 21:02:39.523 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 21:02:39.546 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 21:02:39.550 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 21:02:39.566 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:02:54.431 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:02:54.433 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:02:55.463 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 21:02:55.464 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 21:02:55.465 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 21:02:55.466 +02:00 [INF] Hosting environment: Development
+2021-03-08 21:02:55.467 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 21:02:56.652 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 21:02:56.687 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 21:02:56.692 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 21:02:56.696 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 45.4433ms
+2021-03-08 21:06:42.895 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 21:06:42.925 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 21:06:42.928 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 21:06:42.930 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 21:06:42.933 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 21:06:42.934 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 21:06:42.934 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 21:06:42.956 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 21:06:42.959 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 21:06:42.972 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:06:50.458 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:06:50.459 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:06:51.464 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 21:06:51.465 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 21:06:51.466 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 21:06:51.467 +02:00 [INF] Hosting environment: Development
+2021-03-08 21:06:51.468 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 21:06:55.097 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 21:06:55.132 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 21:06:55.137 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 21:06:55.140 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 44.4637ms
+2021-03-08 21:08:17.438 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 21:08:17.462 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 21:08:17.464 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 21:08:17.465 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 21:08:17.468 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 21:08:17.469 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 21:08:17.470 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 21:08:17.491 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 21:08:17.494 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 21:08:17.507 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:08:21.675 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:08:21.676 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:08:22.696 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 21:08:22.697 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 21:08:22.698 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 21:08:22.698 +02:00 [INF] Hosting environment: Development
+2021-03-08 21:08:22.699 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 21:08:26.916 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 21:08:26.980 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 21:08:26.985 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 21:08:26.988 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 73.7969ms
+2021-03-08 21:10:44.840 +02:00 [INF] Processing product Immergas Eolo Star on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+2021-03-08 21:10:45.637 +02:00 [ERR] 1629f1b84df044689579bf8718d686e9 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+System.Exception: Price is negative or zero
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 42
+2021-03-08 21:15:13.854 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 21:15:13.879 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 21:15:13.882 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 21:15:13.883 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 21:15:13.887 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 21:15:13.888 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 21:15:13.888 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 21:15:13.910 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 21:15:13.913 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 21:15:13.927 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:15:23.069 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:15:23.074 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:15:24.091 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 21:15:24.092 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 21:15:24.094 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 21:15:24.094 +02:00 [INF] Hosting environment: Development
+2021-03-08 21:15:24.095 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 21:15:32.271 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 21:15:32.337 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 21:15:32.341 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 21:15:32.345 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 75.5867ms
+2021-03-08 21:15:36.960 +02:00 [INF] Processing product Immergas Eolo Star on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+2021-03-08 21:15:38.032 +02:00 [ERR] c7f0b4e52a1646f7a2f55176bbcd53fb Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+System.Exception: Price is negative or zero
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 42
+2021-03-08 21:15:38.078 +02:00 [INF] Processing product Immergas Eolo Star on website http://termoformat.md/ru/immergas_eolo_star_24_3e
+2021-03-08 21:15:38.375 +02:00 [INF] Processing product Immergas Eolo Star on website http://instalator.md/shop/centrala-termica-immergas-eolo-star-24/
+2021-03-08 21:15:44.041 +02:00 [INF] Processing product Immergas Eolo Star on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-star.html
+2021-03-08 21:15:44.898 +02:00 [INF] Processing product Immergas Eolo Star on website https://instalatii.md/product/cazan-immergas-eolo-star-24/
+2021-03-08 21:15:45.002 +02:00 [ERR] d96f8eb11d354a5b9b728c8e44877d83 Could not observe prices on site https://instalatii.md/product/cazan-immergas-eolo-star-24/
+System.Net.WebException: The SSL connection could not be established, see inner exception.
+ ---> System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Span`1 buffer)
+   at System.Net.Security.SslStream.FillHandshakeBufferAsync[TIOAdapter](TIOAdapter adapter, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Security.SslStream.ProcessAuthentication(Boolean isAsync, Boolean isApm, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.AuthenticateAsClient(SslClientAuthenticationOptions sslClientAuthenticationOptions)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds)
+   at HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds)
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method)
+   at HtmlAgilityPack.HtmlWeb.Load(String url, String method)
+   at HtmlAgilityPack.HtmlWeb.Load(String url)
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 18
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:15:45.076 +02:00 [INF] Processing product Immergas Eolo Star on website https://supraten.md/centrala-termica-pe-gaz-eolo-star-24-277351-ro
+2021-03-08 21:15:46.056 +02:00 [INF] Processing product Immergas Eolo Star on website https://santehmarket.md/produs/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:16:00.327 +02:00 [INF] Processing product Immergas Eolo Star on website https://maxmart.md/ru/tovary/283313/cazan-immergas-eolo-star-24-kw
+2021-03-08 21:16:03.307 +02:00 [INF] Processing product Immergas Eolo Star on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+2021-03-08 21:16:04.032 +02:00 [ERR] d11939d557fd4b64b604a26456fe3ee9 Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+System.NotSupportedException: Js is required
+   at PricesObserver.SiteParsers.Sites.MagicShopParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\MagicShopParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:16:04.051 +02:00 [INF] Processing product Immergas Eolo Star on website https://ogogo.md/cazan-immergas-eolo-star.html
+2021-03-08 21:16:07.413 +02:00 [INF] Processing product Immergas Eolo Star on website https://econstruct.md/ro/5871563/
+2021-03-08 21:16:08.081 +02:00 [INF] Processing product Immergas Eolo Star on website https://bigshop.md/ro/product/immergas-eolo-star-24-3e-p18877
+2021-03-08 21:16:09.013 +02:00 [INF] Processing product Immergas Eolo Star on website https://uniplast.md/ro/437044/
+2021-03-08 21:16:09.941 +02:00 [INF] Processing product Immergas Eolo Star on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-star-24-kw
+2021-03-08 21:16:17.305 +02:00 [INF] Processing product Immergas Eolo Star on website https://robinet.md/ru/6075423/
+2021-03-08 21:16:17.946 +02:00 [INF] Processing product Immergas Eolo Star on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:16:18.251 +02:00 [INF] Processing product Immergas Eolo Star on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103908
+2021-03-08 21:16:19.068 +02:00 [INF] Processing product Immergas Eolo Star on website http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+2021-03-08 21:16:20.261 +02:00 [ERR] c6123022c5444b6e9eb6de600bc97d9e Could not observe prices on site http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+System.NotSupportedException: Requires JS
+   at PricesObserver.SiteParsers.Sites.CazanMdParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\CazanMdParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:16:20.282 +02:00 [INF] Processing product Immergas Eolo Star on website https://jara.md/ro/5744637/
+2021-03-08 21:16:21.049 +02:00 [INF] Processing product Immergas Eolo Mythos on 22 websites
+2021-03-08 21:16:21.050 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html
+2021-03-08 21:16:21.065 +02:00 [ERR] ac2f3001cec04e8e93f0de09aa0ad0c4 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html
+System.NotImplementedException: A parser for the page http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.082 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e
+2021-03-08 21:16:21.096 +02:00 [ERR] b3a9322a1f354e32987876b93ec8cf34 Could not observe prices on site http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.113 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/
+2021-03-08 21:16:21.127 +02:00 [ERR] a5e1506f28f34eb9bd55cff1da32d4cd Could not observe prices on site http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.145 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html
+2021-03-08 21:16:21.159 +02:00 [ERR] 0efc657eec994a0b8e24347090e0b0cc Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.178 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/
+2021-03-08 21:16:21.193 +02:00 [ERR] c3fd49ffaad94854831e3f18d5344756 Could not observe prices on site https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.210 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/
+2021-03-08 21:16:21.226 +02:00 [ERR] c9099b45b74b4db7a6c1d62861e69d41 Could not observe prices on site https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/
+System.NotImplementedException: A parser for the page https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.243 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro
+2021-03-08 21:16:21.257 +02:00 [ERR] 2c7e72935eea4a16aa1de59a326fe2d3 Could not observe prices on site https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro
+System.NotImplementedException: A parser for the page https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.275 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754
+2021-03-08 21:16:21.289 +02:00 [ERR] 8de7cac18ed14048862df9d73acad72f Could not observe prices on site https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754
+System.NotImplementedException: A parser for the page https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.307 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/
+2021-03-08 21:16:21.321 +02:00 [ERR] 1dc1fce1bc5d46c4b80c89a721e9794c Could not observe prices on site https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.339 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw
+2021-03-08 21:16:21.356 +02:00 [ERR] b2a9196fd1524f9f97226a9b4ce098b8 Could not observe prices on site https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.382 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18
+2021-03-08 21:16:21.397 +02:00 [ERR] 584b636dbfb84c44bfadebcfda7362cd Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18
+System.NotImplementedException: A parser for the page https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.414 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://econstruct.md/ro/5870977/
+2021-03-08 21:16:21.428 +02:00 [ERR] a053bbea5ae3479fb3c551144c801696 Could not observe prices on site https://econstruct.md/ro/5870977/
+System.NotImplementedException: A parser for the page https://econstruct.md/ro/5870977/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.450 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://santehproiect.md/107/
+2021-03-08 21:16:21.470 +02:00 [ERR] f4533e15f8914db080a358c5785b566c Could not observe prices on site https://santehproiect.md/107/
+System.NotImplementedException: A parser for the page https://santehproiect.md/107/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.499 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879
+2021-03-08 21:16:21.516 +02:00 [ERR] 7d7f79a14b994719901bb29800176958 Could not observe prices on site https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879
+System.NotImplementedException: A parser for the page https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.539 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html
+2021-03-08 21:16:21.554 +02:00 [ERR] a22433ab3baa4977b72403b9e3af2cc8 Could not observe prices on site https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html
+System.NotImplementedException: A parser for the page https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.572 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://uniplast.md/ro/437045/
+2021-03-08 21:16:21.587 +02:00 [ERR] 993236d4345b4ef8a340d4d2458683c4 Could not observe prices on site https://uniplast.md/ro/437045/
+System.NotImplementedException: A parser for the page https://uniplast.md/ro/437045/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.604 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw
+2021-03-08 21:16:21.619 +02:00 [ERR] 675fa5c612b44348a6525cb7d9714158 Could not observe prices on site https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw
+System.NotImplementedException: A parser for the page https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.637 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://robinet.md/ru/6075424/
+2021-03-08 21:16:21.651 +02:00 [ERR] e7302b933307463a8bdf281c8bf1a831 Could not observe prices on site https://robinet.md/ru/6075424/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075424/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.669 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/
+2021-03-08 21:16:21.684 +02:00 [ERR] 3f3de4ae4e34425aaa7e4f4ab689bfce Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.704 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907
+2021-03-08 21:16:21.719 +02:00 [ERR] 8407e3215fb34a19a56b5f6a60ae025c Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.741 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html
+2021-03-08 21:16:21.757 +02:00 [ERR] ab25795556b44ce18cec31faa7f07d65 Could not observe prices on site http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.778 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://jara.md/ro/5744636/
+2021-03-08 21:16:21.795 +02:00 [ERR] 6984771c9e7b4d47bdbba15332a94ad0 Could not observe prices on site https://jara.md/ro/5744636/
+System.NotImplementedException: A parser for the page https://jara.md/ro/5744636/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.814 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on 19 websites
+2021-03-08 21:16:21.816 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://termoformat.md/ru/immergas_victrix_tera_2428
+2021-03-08 21:16:21.831 +02:00 [ERR] 1a99f00ead2642648eae4885c74d4c4f Could not observe prices on site http://termoformat.md/ru/immergas_victrix_tera_2428
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_victrix_tera_2428 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.853 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/
+2021-03-08 21:16:21.869 +02:00 [ERR] 31d3eb55d18841c6be29bc8db8e9e14a Could not observe prices on site https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.895 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/
+2021-03-08 21:16:21.911 +02:00 [ERR] a5177af0d46e4d8bbc10a158081e3da2 Could not observe prices on site http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.935 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html
+2021-03-08 21:16:21.952 +02:00 [ERR] ab0743c663fa4fc5a5874813cb5d3d74 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:21.973 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/
+2021-03-08 21:16:21.989 +02:00 [ERR] 654db017ebc54ada8c2e2f6a4e009ac6 Could not observe prices on site https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.014 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/
+2021-03-08 21:16:22.031 +02:00 [ERR] 3185e8a8123243f0bc3a10d42bf137d8 Could not observe prices on site https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.059 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755
+2021-03-08 21:16:22.075 +02:00 [ERR] 696e6e4cbfa9440a9e4d7a028d32656b Could not observe prices on site https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755
+System.NotImplementedException: A parser for the page https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.099 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/
+2021-03-08 21:16:22.118 +02:00 [ERR] 99ba3c97ccd7414ab64313420c57b1e8 Could not observe prices on site https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/
+System.NotImplementedException: A parser for the page https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.138 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28
+2021-03-08 21:16:22.152 +02:00 [ERR] 776cd082f4f94b17874938c814623983 Could not observe prices on site https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.172 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18
+2021-03-08 21:16:22.187 +02:00 [ERR] 06f8dcc0d6a446a38f3291a4dfb4c0ad Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18
+System.NotImplementedException: A parser for the page https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.205 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html
+2021-03-08 21:16:22.220 +02:00 [ERR] 2e09190752e446dd8e2cee53061893dc Could not observe prices on site https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html
+System.NotImplementedException: A parser for the page https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.247 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://santehproiect.md/108/
+2021-03-08 21:16:22.263 +02:00 [ERR] db29d738918c442e876c306e81c8fc6e Could not observe prices on site https://santehproiect.md/108/
+System.NotImplementedException: A parser for the page https://santehproiect.md/108/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.284 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html
+2021-03-08 21:16:22.299 +02:00 [ERR] 8f55ad59395f4c8199d2e8fd859bbb32 Could not observe prices on site https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html
+System.NotImplementedException: A parser for the page https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.318 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://uniplast.md/ro/437043/
+2021-03-08 21:16:22.332 +02:00 [ERR] a5ed1bfcb93343e3ae4bdf0c3f01eb3c Could not observe prices on site https://uniplast.md/ro/437043/
+System.NotImplementedException: A parser for the page https://uniplast.md/ro/437043/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.351 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://robinet.md/ru/6075374/
+2021-03-08 21:16:22.365 +02:00 [ERR] 4c874e433a084659b9ded848d18eb220 Could not observe prices on site https://robinet.md/ru/6075374/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075374/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.384 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/
+2021-03-08 21:16:22.403 +02:00 [ERR] 7aff5ae6eaf34943b8b6f518f1fc8d8d Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.427 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912
+2021-03-08 21:16:22.443 +02:00 [ERR] 153be036ace1472cb89cfc478fcdd4f1 Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.467 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html
+2021-03-08 21:16:22.486 +02:00 [ERR] d50884d385054f5398e3456bb63a262d Could not observe prices on site http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.505 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://jara.md/ro/5744630/
+2021-03-08 21:16:22.521 +02:00 [ERR] 53f5091009ca4497822a3fc76e954f45 Could not observe prices on site https://jara.md/ro/5744630/
+System.NotImplementedException: A parser for the page https://jara.md/ro/5744630/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.539 +02:00 [INF] Processing product Immergas Victrix Omnia on 15 websites
+2021-03-08 21:16:22.540 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://hamster.md/shop/item/view/80719
+2021-03-08 21:16:22.554 +02:00 [ERR] 1f5aa9b5dcc34b54a0dcc4e95c336e84 Could not observe prices on site https://hamster.md/shop/item/view/80719
+System.NotImplementedException: A parser for the page https://hamster.md/shop/item/view/80719 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.573 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html
+2021-03-08 21:16:22.590 +02:00 [ERR] e12ddfbb1751486da9cc77edef02a2b1 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html
+System.NotImplementedException: A parser for the page http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.608 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://termoformat.md/ru/immergas_victrix_omnia_25
+2021-03-08 21:16:22.624 +02:00 [ERR] ae38ffdefdf24d8dbc90423a0c04d2be Could not observe prices on site http://termoformat.md/ru/immergas_victrix_omnia_25
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_victrix_omnia_25 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.643 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/
+2021-03-08 21:16:22.659 +02:00 [ERR] a926214e8ed74d12b816b5cef04c90f1 Could not observe prices on site https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.678 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://instalator.md/shop/centrala-immergas-victrix-omnia-25/
+2021-03-08 21:16:22.693 +02:00 [ERR] 4467d078cfca491b9c2837cc88642902 Could not observe prices on site http://instalator.md/shop/centrala-immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/centrala-immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.712 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html
+2021-03-08 21:16:22.728 +02:00 [ERR] 9b6e7a0d90c744e7a9fda5e04afd9e49 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.748 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia
+2021-03-08 21:16:22.763 +02:00 [ERR] dc14bcf8dae64f3691a0f7105f3a80c4 Could not observe prices on site https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.786 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html
+2021-03-08 21:16:22.802 +02:00 [ERR] f9819fdf077143d38527c0441c9f2c27 Could not observe prices on site https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html
+System.NotImplementedException: A parser for the page https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.821 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://santehproiect.md/109/
+2021-03-08 21:16:22.835 +02:00 [ERR] 08127067cd3c4199bb043d04f4a7be6a Could not observe prices on site https://santehproiect.md/109/
+System.NotImplementedException: A parser for the page https://santehproiect.md/109/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.852 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118
+2021-03-08 21:16:22.868 +02:00 [ERR] 2420a7aa00bd415eb193ba0deebfdaed Could not observe prices on site https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118
+System.NotImplementedException: A parser for the page https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.886 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://robinet.md/ru/6075187/
+2021-03-08 21:16:22.900 +02:00 [ERR] 973cf1e863c242369fb41c1bf859f271 Could not observe prices on site https://robinet.md/ru/6075187/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075187/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.918 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/
+2021-03-08 21:16:22.934 +02:00 [ERR] 7ec0cff9dafe484eb09aa6d7ee61cab7 Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.954 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476
+2021-03-08 21:16:22.969 +02:00 [ERR] 45c162882c204787b4af0be475c19e00 Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:22.987 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html
+2021-03-08 21:16:23.002 +02:00 [ERR] e559ea0e44fa41a395c4ad8394051af8 Could not observe prices on site http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:16:23.021 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://jara.md/ro/6074585/
+2021-03-08 21:16:23.035 +02:00 [ERR] 8213e687be8242ed8c6fbd3701f9631a Could not observe prices on site https://jara.md/ro/6074585/
+System.NotImplementedException: A parser for the page https://jara.md/ro/6074585/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:01.045 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 21:18:01.066 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 21:18:01.068 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 21:18:01.069 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 21:18:01.072 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 21:18:01.073 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 21:18:01.074 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 21:18:01.093 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 21:18:01.096 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 21:18:01.108 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:18:01.174 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:18:01.175 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:18:02.521 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 21:18:02.523 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 21:18:02.524 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 21:18:02.524 +02:00 [INF] Hosting environment: Development
+2021-03-08 21:18:02.525 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 21:18:02.952 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 21:18:02.981 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 21:18:02.985 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 21:18:02.988 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 39.2492ms
+2021-03-08 21:18:05.201 +02:00 [INF] Processing product Immergas Eolo Star on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+2021-03-08 21:18:05.825 +02:00 [ERR] 47de5c019ec5419fb9a2a7b73dba8fa8 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+System.Exception: Price is negative or zero
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 42
+2021-03-08 21:18:05.951 +02:00 [INF] Processing product Immergas Eolo Star on website http://termoformat.md/ru/immergas_eolo_star_24_3e
+2021-03-08 21:18:06.133 +02:00 [INF] Processing product Immergas Eolo Star on website http://instalator.md/shop/centrala-termica-immergas-eolo-star-24/
+2021-03-08 21:18:07.815 +02:00 [INF] Processing product Immergas Eolo Star on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-star.html
+2021-03-08 21:18:13.602 +02:00 [INF] Processing product Immergas Eolo Star on website https://instalatii.md/product/cazan-immergas-eolo-star-24/
+2021-03-08 21:18:13.663 +02:00 [ERR] 0110fa375972404eb4ca8904d2ff81e1 Could not observe prices on site https://instalatii.md/product/cazan-immergas-eolo-star-24/
+System.Net.WebException: The SSL connection could not be established, see inner exception.
+ ---> System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Span`1 buffer)
+   at System.Net.Security.SslStream.FillHandshakeBufferAsync[TIOAdapter](TIOAdapter adapter, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Security.SslStream.ProcessAuthentication(Boolean isAsync, Boolean isApm, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.AuthenticateAsClient(SslClientAuthenticationOptions sslClientAuthenticationOptions)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds)
+   at HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds)
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method)
+   at HtmlAgilityPack.HtmlWeb.Load(String url, String method)
+   at HtmlAgilityPack.HtmlWeb.Load(String url)
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 18
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:18:13.736 +02:00 [INF] Processing product Immergas Eolo Star on website https://supraten.md/centrala-termica-pe-gaz-eolo-star-24-277351-ro
+2021-03-08 21:18:14.504 +02:00 [INF] Processing product Immergas Eolo Star on website https://santehmarket.md/produs/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:18:16.105 +02:00 [INF] Processing product Immergas Eolo Star on website https://maxmart.md/ru/tovary/283313/cazan-immergas-eolo-star-24-kw
+2021-03-08 21:18:16.662 +02:00 [INF] Processing product Immergas Eolo Star on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+2021-03-08 21:18:17.339 +02:00 [ERR] f07ea89b175041b28403b37aae433acc Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+System.NotSupportedException: Js is required
+   at PricesObserver.SiteParsers.Sites.MagicShopParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\MagicShopParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:18:17.359 +02:00 [INF] Processing product Immergas Eolo Star on website https://ogogo.md/cazan-immergas-eolo-star.html
+2021-03-08 21:18:17.970 +02:00 [INF] Processing product Immergas Eolo Star on website https://econstruct.md/ro/5871563/
+2021-03-08 21:18:18.468 +02:00 [INF] Processing product Immergas Eolo Star on website https://bigshop.md/ro/product/immergas-eolo-star-24-3e-p18877
+2021-03-08 21:18:19.180 +02:00 [INF] Processing product Immergas Eolo Star on website https://uniplast.md/ro/437044/
+2021-03-08 21:18:21.563 +02:00 [INF] Processing product Immergas Eolo Star on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-star-24-kw
+2021-03-08 21:18:23.442 +02:00 [INF] Processing product Immergas Eolo Star on website https://robinet.md/ru/6075423/
+2021-03-08 21:18:24.113 +02:00 [INF] Processing product Immergas Eolo Star on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:18:24.325 +02:00 [INF] Processing product Immergas Eolo Star on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103908
+2021-03-08 21:18:24.956 +02:00 [INF] Processing product Immergas Eolo Star on website http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+2021-03-08 21:18:25.903 +02:00 [ERR] 228e72d259db4af598c497c3f7c228c8 Could not observe prices on site http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+System.NotSupportedException: Requires JS
+   at PricesObserver.SiteParsers.Sites.CazanMdParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\CazanMdParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:18:25.923 +02:00 [INF] Processing product Immergas Eolo Star on website https://jara.md/ro/5744637/
+2021-03-08 21:18:26.622 +02:00 [INF] Processing product Immergas Eolo Mythos on 22 websites
+2021-03-08 21:18:26.625 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html
+2021-03-08 21:18:26.631 +02:00 [ERR] 96b8489c3b744447a054e3b098f53c00 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html
+System.NotImplementedException: A parser for the page http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.662 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e
+2021-03-08 21:18:26.665 +02:00 [ERR] 6085a55285dd43c6b6e40b17bf69c8da Could not observe prices on site http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.685 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/
+2021-03-08 21:18:26.689 +02:00 [ERR] 7aaf33675c884452b8e058e036259184 Could not observe prices on site http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.715 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html
+2021-03-08 21:18:26.718 +02:00 [ERR] f993fa9509504fd98bd4d1367b87cc6c Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.742 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/
+2021-03-08 21:18:26.745 +02:00 [ERR] 0f76676694ec4eacbe67f5910cc8f105 Could not observe prices on site https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.767 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/
+2021-03-08 21:18:26.768 +02:00 [ERR] 27639e73c027411485f99d178954140e Could not observe prices on site https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/
+System.NotImplementedException: A parser for the page https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.789 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro
+2021-03-08 21:18:26.792 +02:00 [ERR] 0c24f080308348b299157b3c90402375 Could not observe prices on site https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro
+System.NotImplementedException: A parser for the page https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.814 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754
+2021-03-08 21:18:26.819 +02:00 [ERR] ee5041dadcea45eda25fe62ad74f2140 Could not observe prices on site https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754
+System.NotImplementedException: A parser for the page https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.842 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/
+2021-03-08 21:18:26.843 +02:00 [ERR] cdb1fd926c574d3ca1741bf31c3244f6 Could not observe prices on site https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.868 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw
+2021-03-08 21:18:26.870 +02:00 [ERR] 621086543aa6463b9e520d8cbbf0e0c7 Could not observe prices on site https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.896 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18
+2021-03-08 21:18:26.901 +02:00 [ERR] c0b44c4f40a64e578fd2066da5cf22db Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18
+System.NotImplementedException: A parser for the page https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.928 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://econstruct.md/ro/5870977/
+2021-03-08 21:18:26.929 +02:00 [ERR] 107b89796c1b425681b33f5867a743c8 Could not observe prices on site https://econstruct.md/ro/5870977/
+System.NotImplementedException: A parser for the page https://econstruct.md/ro/5870977/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.953 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://santehproiect.md/107/
+2021-03-08 21:18:26.957 +02:00 [ERR] addeb0d3ec104b5a9083362c50fbbe36 Could not observe prices on site https://santehproiect.md/107/
+System.NotImplementedException: A parser for the page https://santehproiect.md/107/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:26.976 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879
+2021-03-08 21:18:26.981 +02:00 [ERR] e0a0f1ecd7d04f92882c89c41afb5d0a Could not observe prices on site https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879
+System.NotImplementedException: A parser for the page https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.005 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html
+2021-03-08 21:18:27.008 +02:00 [ERR] f21b27e9c23f44e3943a2ed5b8f02a77 Could not observe prices on site https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html
+System.NotImplementedException: A parser for the page https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.029 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://uniplast.md/ro/437045/
+2021-03-08 21:18:27.032 +02:00 [ERR] 236eac596db046d19cd390a710920f5a Could not observe prices on site https://uniplast.md/ro/437045/
+System.NotImplementedException: A parser for the page https://uniplast.md/ro/437045/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.053 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw
+2021-03-08 21:18:27.054 +02:00 [ERR] f642e10a2e6c4bba9f463430650e335d Could not observe prices on site https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw
+System.NotImplementedException: A parser for the page https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.075 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://robinet.md/ru/6075424/
+2021-03-08 21:18:27.077 +02:00 [ERR] 347a69a9cba34b0c887cb91b300ad14a Could not observe prices on site https://robinet.md/ru/6075424/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075424/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.097 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/
+2021-03-08 21:18:27.100 +02:00 [ERR] cacc4bc9024d4457aafb5510f3035a6d Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.120 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907
+2021-03-08 21:18:27.124 +02:00 [ERR] fcb861c1b55b48ac961b44998c4eaa0f Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.146 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html
+2021-03-08 21:18:27.149 +02:00 [ERR] c14c7e251587474aa99d6ecb673f2c58 Could not observe prices on site http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.172 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://jara.md/ro/5744636/
+2021-03-08 21:18:27.173 +02:00 [ERR] 0b491f0c35234ef8b7e91e6a1cd3fa2c Could not observe prices on site https://jara.md/ro/5744636/
+System.NotImplementedException: A parser for the page https://jara.md/ro/5744636/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.190 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on 19 websites
+2021-03-08 21:18:27.192 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://termoformat.md/ru/immergas_victrix_tera_2428
+2021-03-08 21:18:27.193 +02:00 [ERR] 1e0e13a27c3c4c07bc78b5e0d57b08ae Could not observe prices on site http://termoformat.md/ru/immergas_victrix_tera_2428
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_victrix_tera_2428 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.211 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/
+2021-03-08 21:18:27.214 +02:00 [ERR] 640f6c2a98d74d28ab4edc1258385c4f Could not observe prices on site https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.240 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/
+2021-03-08 21:18:27.241 +02:00 [ERR] 5e76a3562dd94d0c8305d5779a9fdda8 Could not observe prices on site http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.261 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html
+2021-03-08 21:18:27.262 +02:00 [ERR] f7143ef8f51546bb9f5b2f83aa08c693 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.286 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/
+2021-03-08 21:18:27.288 +02:00 [ERR] 51944e8325b041919e03303ee7f61d04 Could not observe prices on site https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.309 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/
+2021-03-08 21:18:27.311 +02:00 [ERR] 4994db5a91bd44ec868eb438ecde5b28 Could not observe prices on site https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.332 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755
+2021-03-08 21:18:27.334 +02:00 [ERR] 33e91358ddff49e38c2591f10e3a453b Could not observe prices on site https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755
+System.NotImplementedException: A parser for the page https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.352 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/
+2021-03-08 21:18:27.354 +02:00 [ERR] d379d0e1bd834a6d8f71a786d775e53b Could not observe prices on site https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/
+System.NotImplementedException: A parser for the page https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.372 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28
+2021-03-08 21:18:27.373 +02:00 [ERR] 86c8b37a0b4d41cc8a1e3946fb5f2085 Could not observe prices on site https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.395 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18
+2021-03-08 21:18:27.399 +02:00 [ERR] 6f63c8137344429bad7ef8c41e308677 Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18
+System.NotImplementedException: A parser for the page https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.419 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html
+2021-03-08 21:18:27.420 +02:00 [ERR] 00b97f641b18469ca15ef4756dca3370 Could not observe prices on site https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html
+System.NotImplementedException: A parser for the page https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.440 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://santehproiect.md/108/
+2021-03-08 21:18:27.442 +02:00 [ERR] fee9be210c3944c795fc1d3958355727 Could not observe prices on site https://santehproiect.md/108/
+System.NotImplementedException: A parser for the page https://santehproiect.md/108/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.459 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html
+2021-03-08 21:18:27.461 +02:00 [ERR] 92e6e66858a7491db3d296ed9c065dae Could not observe prices on site https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html
+System.NotImplementedException: A parser for the page https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.481 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://uniplast.md/ro/437043/
+2021-03-08 21:18:27.483 +02:00 [ERR] d1599858bbca4d8e991a77540b902bbe Could not observe prices on site https://uniplast.md/ro/437043/
+System.NotImplementedException: A parser for the page https://uniplast.md/ro/437043/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.500 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://robinet.md/ru/6075374/
+2021-03-08 21:18:27.503 +02:00 [ERR] 75a16ec1c97f4e4da9f806cd2f793105 Could not observe prices on site https://robinet.md/ru/6075374/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075374/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.521 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/
+2021-03-08 21:18:27.524 +02:00 [ERR] 5c693578a85e4fecaab09e22770b8016 Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.543 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912
+2021-03-08 21:18:27.547 +02:00 [ERR] 994535ec9e254a929041daaebdd0c20b Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.566 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html
+2021-03-08 21:18:27.567 +02:00 [ERR] 52b03132303c43c983da2dc5dca6f477 Could not observe prices on site http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.585 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://jara.md/ro/5744630/
+2021-03-08 21:18:27.587 +02:00 [ERR] 48432d040c2a41a59b04dfed41c64300 Could not observe prices on site https://jara.md/ro/5744630/
+System.NotImplementedException: A parser for the page https://jara.md/ro/5744630/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.606 +02:00 [INF] Processing product Immergas Victrix Omnia on 15 websites
+2021-03-08 21:18:27.607 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://hamster.md/shop/item/view/80719
+2021-03-08 21:18:27.609 +02:00 [ERR] 5738959f1f9a4cf0bacfe902b6e0d0db Could not observe prices on site https://hamster.md/shop/item/view/80719
+System.NotImplementedException: A parser for the page https://hamster.md/shop/item/view/80719 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.628 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html
+2021-03-08 21:18:27.632 +02:00 [ERR] 10e2b2d3e3244677a68bae31e4111178 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html
+System.NotImplementedException: A parser for the page http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.655 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://termoformat.md/ru/immergas_victrix_omnia_25
+2021-03-08 21:18:27.656 +02:00 [ERR] a4e5a53ef1f1419ebf648b2e10d266c0 Could not observe prices on site http://termoformat.md/ru/immergas_victrix_omnia_25
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_victrix_omnia_25 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.677 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/
+2021-03-08 21:18:27.681 +02:00 [ERR] 6e217c9368974f5e9702e939818bff48 Could not observe prices on site https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.702 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://instalator.md/shop/centrala-immergas-victrix-omnia-25/
+2021-03-08 21:18:27.704 +02:00 [ERR] 63a3d9586b474818ac96a4642fc0afc4 Could not observe prices on site http://instalator.md/shop/centrala-immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/centrala-immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.726 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html
+2021-03-08 21:18:27.727 +02:00 [ERR] 5987f599440a4717a4f645f88faa74d7 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.748 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia
+2021-03-08 21:18:27.749 +02:00 [ERR] 60cb4c233ad44c1c8a26e3e8e84deb0b Could not observe prices on site https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.775 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html
+2021-03-08 21:18:27.778 +02:00 [ERR] ad4b74bfc21e42b5a53eb6ebadd5ecb9 Could not observe prices on site https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html
+System.NotImplementedException: A parser for the page https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.803 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://santehproiect.md/109/
+2021-03-08 21:18:27.804 +02:00 [ERR] 777e4361000840fb9ee9212bd67bebe0 Could not observe prices on site https://santehproiect.md/109/
+System.NotImplementedException: A parser for the page https://santehproiect.md/109/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.821 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118
+2021-03-08 21:18:27.823 +02:00 [ERR] 390d885aca0341db812c14f70bd38543 Could not observe prices on site https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118
+System.NotImplementedException: A parser for the page https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.841 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://robinet.md/ru/6075187/
+2021-03-08 21:18:27.843 +02:00 [ERR] 8c5188ff2cee4e24b7ce7e3a4fcc971d Could not observe prices on site https://robinet.md/ru/6075187/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075187/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.861 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/
+2021-03-08 21:18:27.866 +02:00 [ERR] fd84c28837df408b87794b35e8610d66 Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.884 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476
+2021-03-08 21:18:27.885 +02:00 [ERR] c34005c3dea645c2ad3d6261d2915381 Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.904 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html
+2021-03-08 21:18:27.906 +02:00 [ERR] cd802acec0644e15b73be1704af3a15c Could not observe prices on site http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:27.924 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://jara.md/ro/6074585/
+2021-03-08 21:18:27.925 +02:00 [ERR] 6e445f17f2844258b035601a78447034 Could not observe prices on site https://jara.md/ro/6074585/
+System.NotImplementedException: A parser for the page https://jara.md/ro/6074585/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:18:30.945 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:18:30.946 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:18:33.581 +02:00 [INF] Processing product Immergas Eolo Star on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+2021-03-08 21:18:34.281 +02:00 [ERR] 31200674dbca43ad900684d69753230d Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+System.Exception: Price is negative or zero
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 42
+2021-03-08 21:18:34.300 +02:00 [INF] Processing product Immergas Eolo Star on website http://termoformat.md/ru/immergas_eolo_star_24_3e
+2021-03-08 21:18:34.459 +02:00 [INF] Processing product Immergas Eolo Star on website http://instalator.md/shop/centrala-termica-immergas-eolo-star-24/
+2021-03-08 21:18:36.012 +02:00 [INF] Processing product Immergas Eolo Star on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-star.html
+2021-03-08 21:18:36.417 +02:00 [INF] Processing product Immergas Eolo Star on website https://instalatii.md/product/cazan-immergas-eolo-star-24/
+2021-03-08 21:18:40.929 +02:00 [INF] Processing product Immergas Eolo Star on website https://supraten.md/centrala-termica-pe-gaz-eolo-star-24-277351-ro
+2021-03-08 21:18:41.645 +02:00 [INF] Processing product Immergas Eolo Star on website https://santehmarket.md/produs/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:18:43.308 +02:00 [INF] Processing product Immergas Eolo Star on website https://maxmart.md/ru/tovary/283313/cazan-immergas-eolo-star-24-kw
+2021-03-08 21:18:43.638 +02:00 [INF] Processing product Immergas Eolo Star on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+2021-03-08 21:18:43.792 +02:00 [INF] Application is shutting down...
+2021-03-08 21:18:43.807 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core shutting down.
+2021-03-08 21:18:43.809 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core paused.
+2021-03-08 21:18:44.028 +02:00 [ERR] 6ae0e50c1cf34dfabffa357b1672017e Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+System.NotSupportedException: Js is required
+   at PricesObserver.SiteParsers.Sites.MagicShopParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\MagicShopParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:18:44.051 +02:00 [INF] Processing product Immergas Eolo Star on website https://ogogo.md/cazan-immergas-eolo-star.html
+2021-03-08 21:18:44.450 +02:00 [INF] Processing product Immergas Eolo Star on website https://econstruct.md/ro/5871563/
+2021-03-08 21:18:44.845 +02:00 [INF] Processing product Immergas Eolo Star on website https://bigshop.md/ro/product/immergas-eolo-star-24-3e-p18877
+2021-03-08 21:18:45.219 +02:00 [INF] Processing product Immergas Eolo Star on website https://uniplast.md/ro/437044/
+2021-03-08 21:18:45.755 +02:00 [INF] Processing product Immergas Eolo Star on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-star-24-kw
+2021-03-08 21:18:47.134 +02:00 [INF] Processing product Immergas Eolo Star on website https://robinet.md/ru/6075423/
+2021-03-08 21:18:47.683 +02:00 [INF] Processing product Immergas Eolo Star on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:18:47.915 +02:00 [INF] Processing product Immergas Eolo Star on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103908
+2021-03-08 21:18:48.331 +02:00 [INF] Processing product Immergas Eolo Star on website http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+2021-03-08 21:20:59.042 +02:00 [INF] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2021-03-08 21:20:59.064 +02:00 [INF] Quartz Scheduler v.3.2.4.0 created.
+2021-03-08 21:20:59.066 +02:00 [INF] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2021-03-08 21:20:59.067 +02:00 [INF] RAMJobStore initialized.
+2021-03-08 21:20:59.069 +02:00 [INF] Scheduler meta-data: Quartz Scheduler (v3.2.4.0) 'QuartzScheduler' with instanceId 'Scheduler-Core'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2021-03-08 21:20:59.070 +02:00 [INF] Quartz scheduler 'QuartzScheduler' initialized
+2021-03-08 21:20:59.071 +02:00 [INF] Quartz scheduler version: 3.2.4.0
+2021-03-08 21:20:59.091 +02:00 [INF] Adding 1 jobs, 1 triggers.
+2021-03-08 21:20:59.094 +02:00 [INF] Adding job: DEFAULT.job1
+2021-03-08 21:20:59.106 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core started.
+2021-03-08 21:20:59.173 +02:00 [INF] Processing product Immergas Eolo Star on 20 websites
+2021-03-08 21:20:59.174 +02:00 [INF] Processing product Immergas Eolo Star on website https://hamster.md/shop/item/view/24857
+2021-03-08 21:21:00.524 +02:00 [INF] Now listening on: https://localhost:5001
+2021-03-08 21:21:00.526 +02:00 [INF] Now listening on: http://localhost:5000
+2021-03-08 21:21:00.527 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-03-08 21:21:00.527 +02:00 [INF] Hosting environment: Development
+2021-03-08 21:21:00.528 +02:00 [INF] Content root path: D:\Projects\MoldovaPricesObserver\PricesObserver
+2021-03-08 21:21:01.003 +02:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - -
+2021-03-08 21:21:01.037 +02:00 [INF] Executing endpoint '/ HTTP: GET'
+2021-03-08 21:21:01.042 +02:00 [INF] Executed endpoint '/ HTTP: GET'
+2021-03-08 21:21:01.046 +02:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - - - 200 - - 44.9870ms
+2021-03-08 21:21:02.127 +02:00 [INF] Processing product Immergas Eolo Star on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+2021-03-08 21:21:03.433 +02:00 [ERR] 2a0e1cf9ad8047748f788db618716845 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/18-cazan-immergas-eolo-star.html
+System.Exception: Price is negative or zero
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 42
+2021-03-08 21:21:03.464 +02:00 [INF] Processing product Immergas Eolo Star on website http://termoformat.md/ru/immergas_eolo_star_24_3e
+2021-03-08 21:21:03.790 +02:00 [INF] Processing product Immergas Eolo Star on website http://instalator.md/shop/centrala-termica-immergas-eolo-star-24/
+2021-03-08 21:21:05.553 +02:00 [INF] Processing product Immergas Eolo Star on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-star.html
+2021-03-08 21:21:06.460 +02:00 [INF] Processing product Immergas Eolo Star on website https://instalatii.md/product/cazan-immergas-eolo-star-24/
+2021-03-08 21:21:06.511 +02:00 [ERR] 840cb748b7fe4c358c3d94393cc93d97 Could not observe prices on site https://instalatii.md/product/cazan-immergas-eolo-star-24/
+System.Net.WebException: The SSL connection could not be established, see inner exception.
+ ---> System.Net.Http.HttpRequestException: The SSL connection could not be established, see inner exception.
+ ---> System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+ ---> System.Net.Sockets.SocketException (10054): An existing connection was forcibly closed by the remote host.
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Span`1 buffer)
+   at System.Net.Security.SslStream.FillHandshakeBufferAsync[TIOAdapter](TIOAdapter adapter, Int32 minSize)
+   at System.Net.Security.SslStream.ReceiveBlobAsync[TIOAdapter](TIOAdapter adapter)
+   at System.Net.Security.SslStream.ForceAuthenticationAsync[TIOAdapter](TIOAdapter adapter, Boolean receiveFirst, Byte[] reAuthenticationData, Boolean isApm)
+   at System.Net.Security.SslStream.ProcessAuthentication(Boolean isAsync, Boolean isApm, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.AuthenticateAsClient(SslClientAuthenticationOptions sslClientAuthenticationOptions)
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.EstablishSslConnectionAsyncCore(Boolean async, Stream stream, SslClientAuthenticationOptions sslOptions, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClientHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at HtmlAgilityPack.HtmlWeb.Get(Uri uri, String method, String path, HtmlDocument doc, IWebProxy proxy, ICredentials creds)
+   at HtmlAgilityPack.HtmlWeb.LoadUrl(Uri uri, String method, WebProxy proxy, NetworkCredential creds)
+   at HtmlAgilityPack.HtmlWeb.Load(Uri uri, String method)
+   at HtmlAgilityPack.HtmlWeb.Load(String url, String method)
+   at HtmlAgilityPack.HtmlWeb.Load(String url)
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 18
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:21:06.562 +02:00 [INF] Processing product Immergas Eolo Star on website https://supraten.md/centrala-termica-pe-gaz-eolo-star-24-277351-ro
+2021-03-08 21:21:07.437 +02:00 [INF] Processing product Immergas Eolo Star on website https://santehmarket.md/produs/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:21:16.028 +02:00 [INF] Processing product Immergas Eolo Star on website https://maxmart.md/ru/tovary/283313/cazan-immergas-eolo-star-24-kw
+2021-03-08 21:21:16.625 +02:00 [INF] Processing product Immergas Eolo Star on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+2021-03-08 21:21:17.319 +02:00 [ERR] a8b2e0e318e1428bb326c1569b826857 Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-star-24-kw-0018-18
+System.NotSupportedException: Js is required
+   at PricesObserver.SiteParsers.Sites.MagicShopParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\MagicShopParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:21:17.339 +02:00 [INF] Processing product Immergas Eolo Star on website https://ogogo.md/cazan-immergas-eolo-star.html
+2021-03-08 21:21:18.195 +02:00 [INF] Processing product Immergas Eolo Star on website https://econstruct.md/ro/5871563/
+2021-03-08 21:21:19.366 +02:00 [INF] Processing product Immergas Eolo Star on website https://bigshop.md/ro/product/immergas-eolo-star-24-3e-p18877
+2021-03-08 21:21:20.052 +02:00 [INF] Processing product Immergas Eolo Star on website https://uniplast.md/ro/437044/
+2021-03-08 21:21:20.616 +02:00 [INF] Processing product Immergas Eolo Star on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-star-24-kw
+2021-03-08 21:21:22.454 +02:00 [INF] Processing product Immergas Eolo Star on website https://robinet.md/ru/6075423/
+2021-03-08 21:21:23.173 +02:00 [INF] Processing product Immergas Eolo Star on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-star-24-kw/
+2021-03-08 21:21:23.390 +02:00 [INF] Processing product Immergas Eolo Star on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103908
+2021-03-08 21:21:23.982 +02:00 [INF] Processing product Immergas Eolo Star on website http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+2021-03-08 21:21:24.792 +02:00 [ERR] 871bf9a74113462b82059c698cad139a Could not observe prices on site http://cazan.md/ro/cazan-immergas/11-cazan-immergas-eolo-star-24.html
+System.NotSupportedException: Requires JS
+   at PricesObserver.SiteParsers.Sites.CazanMdParser.GetPrice(HtmlDocument document) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\Sites\CazanMdParser.cs:line 14
+   at PricesObserver.SiteParsers.Sites.SiteParserBase.Parse(String productName, String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserBase.cs:line 20
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 38
+2021-03-08 21:21:24.811 +02:00 [INF] Processing product Immergas Eolo Star on website https://jara.md/ro/5744637/
+2021-03-08 21:21:25.356 +02:00 [INF] Processing product Immergas Eolo Mythos on 22 websites
+2021-03-08 21:21:25.358 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html
+2021-03-08 21:21:25.359 +02:00 [ERR] 6c6eaacb17bc438c8b305a0b467a53b9 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html
+System.NotImplementedException: A parser for the page http://baieplus.md/ru/kotly-i-gazovye-kolonki/651-cazan-immergas-eolo-mythos.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.382 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e
+2021-03-08 21:21:25.383 +02:00 [ERR] 3b42065f828b45ababcec57b58fd679b Could not observe prices on site http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_eolo_mythos_24_kw_2e does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.398 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/
+2021-03-08 21:21:25.400 +02:00 [ERR] e08f7e5fb0f24c8d994d5b87ab865183 Could not observe prices on site http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/cazan-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.417 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html
+2021-03-08 21:21:25.419 +02:00 [ERR] bd2b4ae4dcaf4776a8bbdedbb5c061a3 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/kotiol-immergas-eolo-mythos.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.443 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/
+2021-03-08 21:21:25.445 +02:00 [ERR] 308fa28c26e94605a93a539d4778254c Could not observe prices on site https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page https://instalatii.md/product/cazan-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.463 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/
+2021-03-08 21:21:25.464 +02:00 [ERR] 058eef4a3759402dbd471995898a57bb Could not observe prices on site https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/
+System.NotImplementedException: A parser for the page https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-ecolo-mythos-24kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.485 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro
+2021-03-08 21:21:25.487 +02:00 [ERR] 9bd9b7f75bda43dfa2025f0bde8fe966 Could not observe prices on site https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro
+System.NotImplementedException: A parser for the page https://supraten.md/centrala-termica-pe-gaz-eolo-mythos-24-277350-ro does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.512 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754
+2021-03-08 21:21:25.515 +02:00 [ERR] 12cebaf01fdf42a2926238db5f8e8f47 Could not observe prices on site https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754
+System.NotImplementedException: A parser for the page https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-Eolo-Mythos-24KW/2754 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.533 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/
+2021-03-08 21:21:25.534 +02:00 [ERR] 7b7ff7d01e3a4395b24a4ec40d6f44cb Could not observe prices on site https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/
+System.NotImplementedException: A parser for the page https://santehmarket.md/produs/centrala-immergas-eolo-mythos-24-kw/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.556 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw
+2021-03-08 21:21:25.557 +02:00 [ERR] ee20c1a7a5bc4a7889b64a8a9f9e2b42 Could not observe prices on site https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283314/cazan-immergas-eolo-mythos-24-kw does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.588 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18
+2021-03-08 21:21:25.589 +02:00 [ERR] 9e24205b9812477ebcdc30fe0e62a62e Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18
+System.NotImplementedException: A parser for the page https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-eolo-mythos-24-kw-2049-18 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.608 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://econstruct.md/ro/5870977/
+2021-03-08 21:21:25.609 +02:00 [ERR] 12e0fb982c694adfa741a69fec2a35da Could not observe prices on site https://econstruct.md/ro/5870977/
+System.NotImplementedException: A parser for the page https://econstruct.md/ro/5870977/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.628 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://santehproiect.md/107/
+2021-03-08 21:21:25.629 +02:00 [ERR] 86272bfbd3004ba9a648303a271c37e9 Could not observe prices on site https://santehproiect.md/107/
+System.NotImplementedException: A parser for the page https://santehproiect.md/107/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.647 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879
+2021-03-08 21:21:25.649 +02:00 [ERR] 090e23cbfa7943178014ae5de8a7b3e5 Could not observe prices on site https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879
+System.NotImplementedException: A parser for the page https://bigshop.md/ro/product/immergas-eolo-mytos-24-kw-p18879 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.667 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html
+2021-03-08 21:21:25.668 +02:00 [ERR] 6551ef07caa547d485a197d8c30e774e Could not observe prices on site https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html
+System.NotImplementedException: A parser for the page https://nanu.md/ru/gazovye-kotly/14872-cazan-immergas-eolo-mythos-24kw.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.686 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://uniplast.md/ro/437045/
+2021-03-08 21:21:25.688 +02:00 [ERR] 9d75462fce0b4b6abc4c544b1da99070 Could not observe prices on site https://uniplast.md/ro/437045/
+System.NotImplementedException: A parser for the page https://uniplast.md/ro/437045/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.706 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw
+2021-03-08 21:21:25.708 +02:00 [ERR] a9c5910c172c4d9fb9b45cf294250019 Could not observe prices on site https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw
+System.NotImplementedException: A parser for the page https://meserias.md/ro/otoplenie-i-vodosnabjenie/kotly-otopleniya/gazovyj-kotel-immergas-eolo-mythos-24-kw does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.726 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://robinet.md/ru/6075424/
+2021-03-08 21:21:25.727 +02:00 [ERR] 616eb3ee071c42119bdebf82ef3bbe47 Could not observe prices on site https://robinet.md/ru/6075424/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075424/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.744 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/
+2021-03-08 21:21:25.747 +02:00 [ERR] b47e355c2fbe48d987adaaeb26b3da47 Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-eolo-mythos-24-kw-1/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.770 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907
+2021-03-08 21:21:25.772 +02:00 [ERR] 7179144ba0bb4efeb5f95d9f78e8bbd0 Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103907 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.790 +02:00 [INF] Processing product Immergas Eolo Mythos on website http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html
+2021-03-08 21:21:25.792 +02:00 [ERR] 78fdc7b9e1dc4737b3e5a9b3aa03de53 Could not observe prices on site http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazan-immergas/186-cazan-immergas-eolo-mythos-24-2e-.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.812 +02:00 [INF] Processing product Immergas Eolo Mythos on website https://jara.md/ro/5744636/
+2021-03-08 21:21:25.814 +02:00 [ERR] cd168d96c978402da13e6ba5898b5d32 Could not observe prices on site https://jara.md/ro/5744636/
+System.NotImplementedException: A parser for the page https://jara.md/ro/5744636/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.830 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on 19 websites
+2021-03-08 21:21:25.832 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://termoformat.md/ru/immergas_victrix_tera_2428
+2021-03-08 21:21:25.834 +02:00 [ERR] 2c62d35a0d264c2a9381718f3a9a7bd8 Could not observe prices on site http://termoformat.md/ru/immergas_victrix_tera_2428
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_victrix_tera_2428 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.852 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/
+2021-03-08 21:21:25.854 +02:00 [ERR] a9d2349c14ca46f889afdc0c3c846b09 Could not observe prices on site https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://termoshop.md/shop/cazane/immergas-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.872 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/
+2021-03-08 21:21:25.874 +02:00 [ERR] 7a4090a6a87b43c0a7f8863d27fff33d Could not observe prices on site http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/cazan-cu-condensare-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.893 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html
+2021-03-08 21:21:25.894 +02:00 [ERR] cc68618b6ff04034a2fdcd8124ebec15 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-tera-24-28-gazovyj-kotel.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.912 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/
+2021-03-08 21:21:25.914 +02:00 [ERR] 8b4d22be360b4f9887a01d4d7827b6a8 Could not observe prices on site https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://instalatii.md/product/centrala-termica-immergas-victrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.933 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/
+2021-03-08 21:21:25.934 +02:00 [ERR] 7cb2ab5dde5e4a53b286b5f0623c6067 Could not observe prices on site https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/
+System.NotImplementedException: A parser for the page https://kazinst.md/produs/centrale/cazane-pe-gaz/cazane-immergas/centrala-immergas-vitrix-tera-24-28/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.955 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755
+2021-03-08 21:21:25.956 +02:00 [ERR] 22ecf38d5d344f338c909440f490def5 Could not observe prices on site https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755
+System.NotImplementedException: A parser for the page https://lianatgrup.md/ro/Cazane/Cazan-pe-gaz/Centrala-termica-IMMERGAS-VICTRIX-TERA-24KW-condens/2755 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:25.980 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/
+2021-03-08 21:21:25.981 +02:00 [ERR] 8c1ae95736e74f91915485d910317424 Could not observe prices on site https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/
+System.NotImplementedException: A parser for the page https://santehmarket.md/produs/centrala-immergas-victrix-tera-24-28-condens/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.003 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28
+2021-03-08 21:21:26.005 +02:00 [ERR] 2a8c0472eeac4af6a54cc1a1c32907c6 Could not observe prices on site https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283317/cazan-immergas-victrix-tera-24-28 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.028 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18
+2021-03-08 21:21:26.030 +02:00 [ERR] a586e41d6cb14b3bba762d88989afb78 Could not observe prices on site https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18
+System.NotImplementedException: A parser for the page https://magicshop.md/electrocasnice-magic-shopmd/instalatii-termice-si-sanitare/cazane-pe-gaz/cazan-immergas-victrix-tera-24-28-24981-18 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.051 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html
+2021-03-08 21:21:26.053 +02:00 [ERR] eca562fbd81545428da0433fdbc50ef5 Could not observe prices on site https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html
+System.NotImplementedException: A parser for the page https://ogogo.md/cazan-in-condensare-immergas-victrix-tera-24-28.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.071 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://santehproiect.md/108/
+2021-03-08 21:21:26.072 +02:00 [ERR] 457406d6abe64efba3a12878dd285310 Could not observe prices on site https://santehproiect.md/108/
+System.NotImplementedException: A parser for the page https://santehproiect.md/108/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.096 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html
+2021-03-08 21:21:26.100 +02:00 [ERR] 7d769ed07c2e4acfa4ac65c44f3158fa Could not observe prices on site https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html
+System.NotImplementedException: A parser for the page https://nanu.md/ru/gazovye-kotly/47863-kotel-immergas-victrix-tera-2428.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.118 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://uniplast.md/ro/437043/
+2021-03-08 21:21:26.119 +02:00 [ERR] e419c4ce0ea24b6a98cf0863e894a5d2 Could not observe prices on site https://uniplast.md/ro/437043/
+System.NotImplementedException: A parser for the page https://uniplast.md/ro/437043/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.137 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://robinet.md/ru/6075374/
+2021-03-08 21:21:26.138 +02:00 [ERR] 06bf9426eeec40f1bb63aa79139f51c0 Could not observe prices on site https://robinet.md/ru/6075374/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075374/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.155 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/
+2021-03-08 21:21:26.157 +02:00 [ERR] 21bfcaa180ac4623b28097fc06ca0d3c Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-victrix-tera-2428-1/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.176 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912
+2021-03-08 21:21:26.178 +02:00 [ERR] 28d1b7de6f32499f9f93be6207497b23 Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=103912 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.196 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html
+2021-03-08 21:21:26.197 +02:00 [ERR] 5e5d7e29e4354b4d82c5540cdc355c40 Could not observe prices on site http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazane-in-condensatie-immergas/682-cazan-immergas-in-condensare-victrix-tera-28.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.215 +02:00 [INF] Processing product Immergas Victrix Terra 24/28 on website https://jara.md/ro/5744630/
+2021-03-08 21:21:26.216 +02:00 [ERR] 5777170923774f049dcf216f89e5e77e Could not observe prices on site https://jara.md/ro/5744630/
+System.NotImplementedException: A parser for the page https://jara.md/ro/5744630/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.234 +02:00 [INF] Processing product Immergas Victrix Omnia on 15 websites
+2021-03-08 21:21:26.235 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://hamster.md/shop/item/view/80719
+2021-03-08 21:21:26.236 +02:00 [ERR] 874e77c4da37460990e57ff992f00399 Could not observe prices on site https://hamster.md/shop/item/view/80719
+System.NotImplementedException: A parser for the page https://hamster.md/shop/item/view/80719 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.252 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html
+2021-03-08 21:21:26.253 +02:00 [ERR] d30ab32a19124e13abcb3b118d35a2f0 Could not observe prices on site http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html
+System.NotImplementedException: A parser for the page http://baieplus.md/ru/kotly-i-gazovye-kolonki/1569-cazan-immergas-victrix-omnia-25.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.274 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://termoformat.md/ru/immergas_victrix_omnia_25
+2021-03-08 21:21:26.275 +02:00 [ERR] ef58875c29ee4c269d7a6a819c62800b Could not observe prices on site http://termoformat.md/ru/immergas_victrix_omnia_25
+System.NotImplementedException: A parser for the page http://termoformat.md/ru/immergas_victrix_omnia_25 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.291 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/
+2021-03-08 21:21:26.291 +02:00 [ERR] 93d09c5532334450a883142bcb222058 Could not observe prices on site https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page https://termoshop.md/shop/cazane/immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.308 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://instalator.md/shop/centrala-immergas-victrix-omnia-25/
+2021-03-08 21:21:26.309 +02:00 [ERR] facf2bc768784692b286cb5695046c28 Could not observe prices on site http://instalator.md/shop/centrala-immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page http://instalator.md/shop/centrala-immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.325 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html
+2021-03-08 21:21:26.325 +02:00 [ERR] 73713b88557a459ea73d7047a6185f92 Could not observe prices on site https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html
+System.NotImplementedException: A parser for the page https://smadshop.md/otoplenie-vodosnabzhenie/immergas-victrix-omnia-25-kw-gazovyj-kotel.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.337 +02:00 [INF] Application is shutting down...
+2021-03-08 21:21:26.342 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia
+2021-03-08 21:21:26.342 +02:00 [ERR] f573c8727f3f4338bdd5dd487b53c70f Could not observe prices on site https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia
+System.NotImplementedException: A parser for the page https://maxmart.md/ru/tovary/283318/cazan-immergas-victrix-omnia does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.352 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core shutting down.
+2021-03-08 21:21:26.354 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core paused.
+2021-03-08 21:21:26.363 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html
+2021-03-08 21:21:26.364 +02:00 [ERR] 494b467b9e4445e48062c1b93152ab05 Could not observe prices on site https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html
+System.NotImplementedException: A parser for the page https://ogogo.md/cazan-in-condensare-immergas-victrix-omnia-25kw.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.381 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://santehproiect.md/109/
+2021-03-08 21:21:26.382 +02:00 [ERR] 0e26e19908c34fed9b5023fc4ad357be Could not observe prices on site https://santehproiect.md/109/
+System.NotImplementedException: A parser for the page https://santehproiect.md/109/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.398 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118
+2021-03-08 21:21:26.399 +02:00 [ERR] 1f168b207616489db4026710b1c9aa2f Could not observe prices on site https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118
+System.NotImplementedException: A parser for the page https://bigshop.md/ro/product/cazan-pe-gaz-immergas-victrix-omnia-p93118 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.414 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://robinet.md/ru/6075187/
+2021-03-08 21:21:26.415 +02:00 [ERR] 794343e5177d4784919415c78a3f35ee Could not observe prices on site https://robinet.md/ru/6075187/
+System.NotImplementedException: A parser for the page https://robinet.md/ru/6075187/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.431 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/
+2021-03-08 21:21:26.432 +02:00 [ERR] ebf548c83a654e3484f593d14e708f02 Could not observe prices on site http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/
+System.NotImplementedException: A parser for the page http://www.termodepozit.md/ru/product/centrala-immergas-victrix-omnia-25/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.448 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476
+2021-03-08 21:21:26.450 +02:00 [ERR] 8fa8b9615f684a8fb086700153e24a01 Could not observe prices on site https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476
+System.NotImplementedException: A parser for the page https://teploplus.md/index.php?route=product/product&path=103860_103903&product_id=106476 does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.469 +02:00 [INF] Processing product Immergas Victrix Omnia on website http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html
+2021-03-08 21:21:26.470 +02:00 [ERR] b00a17e4f83d41ca8c3db314cf6b9d0e Could not observe prices on site http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html
+System.NotImplementedException: A parser for the page http://cazan.md/ro/cazane-in-condensatie-de-perete/906-cazan-immergas-victrix-omnia-25.html does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.492 +02:00 [INF] Processing product Immergas Victrix Omnia on website https://jara.md/ro/6074585/
+2021-03-08 21:21:26.493 +02:00 [ERR] 67a2edab533c4b6f8511227799c682d4 Could not observe prices on site https://jara.md/ro/6074585/
+System.NotImplementedException: A parser for the page https://jara.md/ro/6074585/ does not exist
+   at PricesObserver.SiteParsers.SiteParserFactory.GetInstance(String url) in D:\Projects\MoldovaPricesObserver\PricesObserver\SiteParsers\SiteParserFactory.cs:line 61
+   at PricesObserver.PriceObservers.PriceObserver.ObserveAsync(String productName, String productUrl) in D:\Projects\MoldovaPricesObserver\PricesObserver\PriceObservers\PriceObserver.cs:line 36
+2021-03-08 21:21:26.516 +02:00 [INF] Scheduler QuartzScheduler_$_Scheduler-Core Shutdown complete.

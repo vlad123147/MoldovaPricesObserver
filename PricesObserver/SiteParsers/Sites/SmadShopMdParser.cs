@@ -12,14 +12,19 @@ namespace PricesObserver.SiteParsers.Sites
         protected override decimal GetPrice(HtmlDocument document)
         {
             var node = document.DocumentNode
-                .SelectSingleNode("//*[@id=\"content\"]/div[2]/div[3]/div[2]/ul/li[1]/div/span[1]/text()");
-
+                .SelectSingleNode("//*[@id=\"content\"]/div[2]/div[3]/div[1]/ul/li[1]/div/span[1]");
+            if (node == null)
+            {
+                node = document.DocumentNode
+                .SelectSingleNode("//*[@id=\"content\"]/div[2]/div[3]/div[2]/ul/li[1]/div/span[1]");
+            }
+            
             if (node == null)
             {
                 throw new Exception("Could not find document node, may be Price xpath changed");
             }
 
-            var priceString = node.InnerHtml;
+            var priceString = node.Attributes[1].Value;
 
             return decimal.Parse(priceString);
         }

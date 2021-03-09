@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using PricesObserver.ElasticSearch;
 using PricesObserver.Models;
 using System;
 using System.Collections.Generic;
@@ -15,17 +16,19 @@ namespace PricesObserver.PriceStores
     public class PriceStore : IPriceStore
     {
         private readonly ILogger<PriceStore> _logger;
+        private readonly IPricesElasticSearchIndex _pricesIndex;
 
-        public PriceStore(ILogger<PriceStore> logger)
+        public PriceStore(ILogger<PriceStore> logger, IPricesElasticSearchIndex pricesIndex)
         {
             _logger = logger;
+            _pricesIndex = pricesIndex;
         }
 
         public async Task StoreAsync(ProductPriceFetchResult productPrice)
         {
             try
             {
-                await Task.CompletedTask;
+                await _pricesIndex.IndexDocument(productPrice);
             }
             catch (Exception e)
             {
