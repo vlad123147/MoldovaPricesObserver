@@ -26,16 +26,31 @@ namespace PricesObserver.Models
 
         public ProductPriceFetchResult(string errorMessage, string errorId, string productName, string productUrl)
         {
+            CreatedAt = DateTime.Today;
             IsSuccess = false;
+
             ErrorMessage = errorMessage;
             ErrorId = errorId;
 
-            CreatedAt = DateTime.Today;
+            ProductName = productName;
+            ProductUrl = productUrl;
+            Seller = new Uri(productUrl).Host;
         }
 
         public ProductPriceFetchResult()
         {
+        }
+
+        public ProductPriceFetchResult(string productName, string productUrl, decimal price)
+        {
             CreatedAt = DateTime.Today;
+            IsSuccess = true;
+
+            Price = price;
+            
+            ProductName = productName;
+            ProductUrl = productUrl;
+            Seller = new Uri(productUrl).Host;
         }
     }
 }

@@ -11,18 +11,13 @@ namespace PricesObserver.SiteParsers.Sites
     {
         public ProductPriceFetchResult Parse(string productName, string url)
         {
-            var result = new ProductPriceFetchResult { ProductName = productName, ProductUrl = url, Seller = GetSeller(url) };
-
             HtmlWeb web = new HtmlWeb();
 
             var htmlDoc = web.Load(url);
 
             decimal price = GetPrice(htmlDoc);
 
-            result.IsSuccess = true;
-            result.Price = price;
-
-            return result;
+            return  new ProductPriceFetchResult(productName, url, price);
         }
 
         protected abstract decimal GetPrice(HtmlDocument document);

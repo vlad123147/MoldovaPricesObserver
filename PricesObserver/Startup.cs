@@ -117,7 +117,7 @@ namespace PricesObserver
                    //.WithCronSchedule(CronScheduleBuilder.DailyAtHourAndMinute(06, 00))
                     //.WithSchedule(CronScheduleBuilder.CronSchedule("0/15 * * ? * *"))
                     .WithSimpleSchedule(x => x
-                        .WithIntervalInSeconds(10)
+                        .WithIntervalInHours(24)
                         .RepeatForever())
                 );
             });
