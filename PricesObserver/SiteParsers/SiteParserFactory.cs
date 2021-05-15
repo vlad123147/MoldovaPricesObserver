@@ -1,7 +1,9 @@
 ﻿using PricesObserver.SiteParsers.Sites;
 using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace PricesObserver.SiteParsers
@@ -13,6 +15,10 @@ namespace PricesObserver.SiteParsers
 
     public class SiteParserFactory : ISiteParserFactory
     {
+		public SiteParserFactory()
+		{
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("en", false);
+        }
         public ISiteParser GetInstance(string url)
         {
             var host = new Uri(url).Host;
